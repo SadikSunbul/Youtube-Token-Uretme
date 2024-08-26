@@ -2,6 +2,8 @@
 
 Bu repo, en basit şekilde nasıl token üretebileceğinizi gösterir.
 
+[Youtube Video](https://youtu.be/pyoB-J0d8DQ)
+
 ## Adım 1: Node.js ve npm Kurulumu
 
 Öncelikle bilgisayarınızda Node.js ve npm'in yüklü olması gerekmektedir. [Node.js İndirme Sayfası](https://nodejs.org/)
