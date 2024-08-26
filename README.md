@@ -163,3 +163,6 @@ main()
 
 ## Avax fuji testnet rpc
 https://chainlist.org/chain/43113
+
+## Avax snowtrac contract onaylama
+https://docs.avascan.info/tutorial/deploy-and-verify-an-erc-20-token
