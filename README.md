@@ -158,4 +158,8 @@ main()
 ```bash
  npx hardhat compile
  npx hardhat run scripts/token.s.js
-``
+
+```
+
+## Avax fuji testnet rpc
+https://chainlist.org/chain/43113
